@@ -21,7 +21,7 @@ import org.testng.annotations.Parameters;
 import com.inetbanking.utilities.ReadConfig;
 
 public class BaseClass {
-	//SRK BASE CLASS commit and push
+	//SRK BASE CLASS commit and push to local
 
 	ReadConfig readconfig=new ReadConfig();
 			
