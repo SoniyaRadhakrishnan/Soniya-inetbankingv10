@@ -21,6 +21,7 @@ import org.testng.annotations.Parameters;
 import com.inetbanking.utilities.ReadConfig;
 
 public class BaseClass {
+	//SRK BASE CLASS
 
 	ReadConfig readconfig=new ReadConfig();
 			
